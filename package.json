@@ -14,12 +14,13 @@
     "url": "http://hughsk.io/"
   },
   "dependencies": {
-    "glslify": "^5.1.0"
+    "glslify": "^5.1.0",
+    "loader-utils": "^0.2.12"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/stackgl/glslify-loader.git"
+    "url": "git://github.com/raedatoui/glslify-loader.git"
   },
   "keywords": [
     "ecosystem:stackgl"
