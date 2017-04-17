@@ -14,8 +14,8 @@
     "url": "http://hughsk.io/"
   },
   "dependencies": {
-    "glslify": "^5.1.0",
-    "loader-utils": "^0.2.12"
+    "glslify": "^6.2.0",
+    "loader-utils": "^1.1.0"
   },
   "devDependencies": {},
   "repository": {
