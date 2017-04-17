@@ -20,12 +20,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/raedatoui/glslify-loader.git"
+    "url": "git://github.com/MaxGraey/glslify-loader.git"
   },
   "keywords": [
     "ecosystem:stackgl"
   ],
-  "homepage": "https://github.com/stackgl/glslify-loader",
+  "homepage": "https://github.com/MaxGraey/glslify-loader",
   "bugs": {
     "url": "https://github.com/stackgl/glslify-loader/issues"
   }
